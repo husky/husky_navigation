@@ -1,4 +1,1 @@
-husky_navigation
-================
-
-Launch files and code for autonomous navigation on the Husky
+This repository is deprecated, contents have been moved to https://github.com/husky/husky
